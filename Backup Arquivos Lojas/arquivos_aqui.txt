@@ -1,0 +1,1 @@
+Os arquivos de backup são salvos nessa pasta, "Backup Arquivos Lojas".
